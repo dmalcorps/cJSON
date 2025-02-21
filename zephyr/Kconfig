@@ -1,0 +1,4 @@
+config CJSON_LIB
+	  bool "Enable cjson"
+	  help
+	    This option enables cjson as a Zephyr module.
